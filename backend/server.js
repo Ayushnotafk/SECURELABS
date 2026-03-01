@@ -271,12 +271,12 @@ function parseNmapOutput(output) {
 
 //--- health check ---
 app.get('/api/health', (req, res) => {
-    res.json({ status: 'ok', message: 'SecureiX Backend Running' });
+    res.json({ status: 'ok', message: 'SecureLab Backend Running' });
 });
 
 //--- start server ---
 server.listen(PORT, () => {
-    console.log(`\n  SecureiX Backend running on http://localhost:${PORT}`);
+    console.log(`\n  SecureLab Backend running on http://localhost:${PORT}`);
     console.log(` Nmap API:  POST http://localhost:${PORT}/api/scan`);
     console.log(` WebSocket: ws://localhost:${PORT} (live scan)`);
     console.log(` Auth API:  POST http://localhost:${PORT}/api/auth/signup`);

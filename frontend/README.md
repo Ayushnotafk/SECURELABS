@@ -1,6 +1,6 @@
-# 🛡️ SECUREIX: Security Assessment Management System
+# 🛡️ SECURELAB: Security Assessment Management System
 
-**SECUREIX** is a centralized university laboratory management platform designed to streamline and monitor security audit workflows in a controlled academic environment. The system bridges the gap between Faculty, Teaching Assistants (TAs), and Students, allowing for structured security assessments and real-time performance tracking.
+**SECURELAB** is a centralized university laboratory management platform designed to streamline and monitor security audit workflows in a controlled academic environment. The system bridges the gap between Faculty, Teaching Assistants (TAs), and Students, allowing for structured security assessments and real-time performance tracking.
 
 ---
 
