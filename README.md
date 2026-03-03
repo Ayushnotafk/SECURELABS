@@ -1,6 +1,6 @@
 # SECUREIX (SecureLabs) - How to Run the Project
 
-This guide provides step-by-step instructions on how to set up and run the **Securix** project from scratch on a new system.
+This guide provides step-by-step instructions on how to set up and run the **SECURELABS** project from scratch on a new system.
 
 ---
 
@@ -20,7 +20,7 @@ The backend is built with **Node.js, Express, and MongoDB**. To run it:
 
 **Step 1: Navigate to the backend folder**
 ```bash
-cd /path/to/Securix/backend
+cd /path/to/SECURELABS/backend
 ```
 
 **Step 2: Install Dependencies**
@@ -45,7 +45,7 @@ node server.js
 ```
 *You should see this output in the terminal:*
 ```text
-  SecureiX Backend running on http://localhost:5000
+  SECURELABS Backend running on http://localhost:5000
   MongoDB Connected
 ```
 
@@ -57,7 +57,7 @@ The frontend is built with **React (Vite) and Tailwind CSS**. This needs to be r
 
 **Step 1: Open a new terminal and navigate to the frontend folder**
 ```bash
-cd /path/to/Securix/frontend
+cd /path/to/SECURELABS/frontend
 ```
 
 **Step 2: Install Dependencies**
@@ -85,7 +85,7 @@ When both the **Backend (Port 5000)** and **Frontend (Port 5173)** are running:
 
 1. Open your web browser (Chrome/Firefox/Edge).
 2. Type in the URL bar: `http://localhost:5173`
-3. You will see the **Securix Landing Page**.
+3. You will see the **SECURELABS Landing Page**.
 4. Click on "Get Started" to **Login / Signup** and access your Dashboard.
 
 ---
